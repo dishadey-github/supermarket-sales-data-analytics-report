@@ -1,4 +1,8 @@
 # supermarket-sales-data-analytics-report
+
+# Dashboard Preview
+![Supermarket Sales Data Analytics Dashboard](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/6318e3df-d1a3-45fe-95a4-d143bf1bc7be)
+
 #### Overview 
 The E-Commerce Sales Dashboard is a comprehensive data visualization project designed to provide insights into various aspects of an e-commerce business. This project uses two CSV files and one Power BI file to create visualizations for the following metrics: 
 
