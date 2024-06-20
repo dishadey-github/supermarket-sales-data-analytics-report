@@ -1,33 +1,51 @@
-# supermarket-sales-data-analytics-report
+# Supermarket Sales Data Analytics Dashboard
+### Overview
+This repository contains the Supermarket Sales Data Analytics Dashboard, which provides an insightful visualization of supermarket sales data. The dashboard is designed to offer a comprehensive view of sales, profit, and returned orders, with comparisons to the previous year. It enables users to filter data by customer name, country/region, segment, and date range.
 
-# Dashboard Preview
-![Supermarket Sales Data Analytics Dashboard](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/6318e3df-d1a3-45fe-95a4-d143bf1bc7be)
+Data Files
+CSV Files
+The following CSV files are included in this repository:
 
-#### Overview 
-The E-Commerce Sales Dashboard is a comprehensive data visualization project designed to provide insights into various aspects of an e-commerce business. This project uses two CSV files and one Power BI file to create visualizations for the following metrics: 
+Excel Files
+Sample - Superstore.xls: Contains the raw data used to generate the dashboard. 
+The different metrics are derived from the main excel file itself. This includes details on sales, profit, returned orders and additional metrics.
+Other tables which are included are date table, measure table.
 
-- Profit by Month
-- Profit by Sub-Category
-- Quantity by Category
-- Quantity by Payment Mode
-- Amount by State
-- Amount by Customer Name
+### Dashboard Sections
+Profit by Product
+This section displays the profit earned from different product categories, including Furniture, Office Supplies, and Technology. It provides a breakdown of profit by specific products within these categories.
+
+### Sales vs Previous Year Sales
+This line chart shows the trend of sales over time, with a comparison to the previous year's sales. It helps identify patterns and seasonal trends.
+
+### Profit by State
+A geographical representation of profit across different states. This map helps visualize regional performance.
+
+### Sales by Segment
+A pie chart that breaks down sales by different market segments, such as Consumer, Corporate, and Home Office.
+
+### Filtering the Dashboard
+The dashboard allows for dynamic filtering based on the following parameters:
+
+Customer Name: Filter data specific to a particular customer.
+Country/Region: Filter data for a specific country or region.
+Segment: Filter data based on the market segment.
+Date Range: Select a specific date range to view the data for that period.
+
+Conclusion
+The Supermarket Sales Data Analytics Dashboard is a powerful tool for visualizing and analyzing supermarket performance data. By leveraging the provided data files and utilizing the filtering capabilities, users can gain a deeper understanding of their sales, profit, and returned orders, and make data-driven decisions to improve overall business performance.
+
+Usage Instructions
+Load the CSV/Excel files into your preferred data visualization tool (e.g., Power BI, Tableau).
+Connect the data sources to the visualization tool to populate the dashboard.
+Use the filters to refine the data based on specific criteria such as customer name, region, segment, and date range.
+Analyze the visualizations to gain insights and make informed business decisions.
+
+## Superstore Sales Report
+![Supermarket Sales Data Analytics Dashboard](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/2bb23b6b-eb9c-40fc-abc8-f9a8863cb6ab)
 
 
-#### Files Included
-- Details.csv: This file contains detailed information about individual sales transactions, including product details, customer information, and payment modes.
-- Orders.csv: This file contains order-level information, including order dates, shipment details, and order quantities.
-- Seasonal Sales Report.pbix: This Power BI file contains the dashboard with all the visualizations created based on the data from the CSV files.
+## Superstore Sales Report (with filters)
+![Screenshot 2024-06-20 114628](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/a7f373fa-609f-47f3-b74b-1bf6ba5e3298)
 
-  measure table
-  date table
-  
-  sales
-  profit
-  % returned orders
-  sales per year
-  profit per year
-  % returned orders per year
-  sales vs PY (% change metrics PY)
-  profit vs PY (% change metrics PY)
-  % returned orders vs PY (% change metrics PY)
+
