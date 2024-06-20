@@ -42,10 +42,10 @@ Use the filters to refine the data based on specific criteria such as customer n
 Analyze the visualizations to gain insights and make informed business decisions.
 
 ## Superstore Sales Report
-![Supermarket Sales Data Analytics Dashboard](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/2bb23b6b-eb9c-40fc-abc8-f9a8863cb6ab)
+![Screenshot 2024-06-20 121046](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/0683efd4-3702-4f4e-af81-081dcbda8aa3)
 
 
 ## Superstore Sales Report (with filters)
-![Screenshot 2024-06-20 114628](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/a7f373fa-609f-47f3-b74b-1bf6ba5e3298)
+![Screenshot 2024-06-20 121128](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/406ca985-0b90-406b-995d-817a82c03c1e)
 
 
