@@ -1,4 +1,4 @@
-# Storestore Sales Dashbaord
+# Supermarket Sales Dashbaord
 ### Overview
 This repository contains the Supermarket Sales Data Analytics Dashboard, which provides an insightful visualization of supermarket sales data. The dashboard is designed to offer a comprehensive view of sales, profit, and returned orders, with comparisons to the previous year. It enables users to filter data by customer name, country/region, segment, and date range.
 
