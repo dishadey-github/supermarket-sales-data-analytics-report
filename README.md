@@ -41,8 +41,9 @@ Connect the data sources to the visualization tool to populate the dashboard.
 Use the filters to refine the data based on specific criteria such as customer name, region, segment, and date range.
 Analyze the visualizations to gain insights and make informed business decisions.
 
-## Superstore Sales Report
-![Screenshot 2024-06-20 121046](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/0683efd4-3702-4f4e-af81-081dcbda8aa3)
+## Supermarket Sales Report
+![Supermarket Sales Data Analytics Dashboard](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/e9d3a7f9-c2e0-4224-a0f2-76ad3e2a5153)
+
 
 
 ## Superstore Sales Report (with filters)
