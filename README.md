@@ -194,10 +194,12 @@ A pie chart that breaks down sales by different market segments, such as Consume
 - Consumer: 50.32%
 - Corporate: 30.77%
 - Home Office: 18.92%
+
   
+![image](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/85845c74-940a-4d68-bb05-6c166eeb05ff)
+
 Filtering the Dashboard\
 The dashboard allows for dynamic filtering based on the following parameters:
-
 Customer Name: Filter data specific to a particular customer\
 Country/Region: Filter data for a specific country or region\
 Segment: Filter data based on the market segment\
