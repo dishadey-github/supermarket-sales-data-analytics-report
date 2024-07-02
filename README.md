@@ -11,7 +11,10 @@ The following Excel file is included in this repository:\
 Sample-Superstore.xls: Contains the raw data used to generate the dashboard. 
 This Excel file contains Orders table and Returns table. This includes details on sales, profit, returned orders, and additional metrics.
 
-### Key Measure Table:
+#### Date Table:
+Contains date-related information to support time-based filtering and calculations. (Date, Start of Month)
+
+#### Key Measure Table:
 It contains various calculated measures used in the dashboard. The key measure table has been created to fulfill the KPIs.
 Key Measure table consists of the following -
 ##### 1. Main Metrics
@@ -129,9 +132,6 @@ Profit vs PY (% change): Change in profit compared to the previous year.
 48.85% increase\
 % Returned Orders vs PY (% change): Change in the percentage of returned orders compared to the previous year.
 2.95% decrease
-
-Additional Tables
-Date Table: Contains date-related information to support time-based filtering and calculations. (Date, Start of Month)
 
 ##### Activities to perform in the Power Query
 1. Open Power Query Editor:
