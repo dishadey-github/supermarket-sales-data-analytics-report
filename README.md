@@ -8,7 +8,7 @@
 This repository contains the Supermarket Sales Data Analytics Dashboard, which provides an insightful visualization of supermarket sales data. The dashboard is designed to offer a comprehensive view of sales, profit, and returned orders, with comparisons to the previous year. It enables users to filter data by customer name, country/region, segment, and date range.
 
 #### Data Source
-Sample-Superstore.xlsx: Contains the raw data used to generate the dashboard. 
+Sample-Superstore.xlsx: Contains the raw data used to generate the dashboard.\
 This Excel file contains Orders table and Returns table. This includes details on sales, profit, returned orders, and additional metrics.
 
 #### Date Table:
@@ -35,7 +35,7 @@ Key Measure table consists of the following -
 Click on Transform Data to open the Power Query Editor. In view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 
 2. Inspect and Clean Data:
-Verify that both datasets (Orders and Returns) are loaded correctly.
+Verify that both datasets (Orders and Returns) are loaded correctly.\
 Check for any inconsistencies or missing values and handle them accordingly (e.g., removing null values, correcting data types).
 
 ##### Activities to perform in the Table View
