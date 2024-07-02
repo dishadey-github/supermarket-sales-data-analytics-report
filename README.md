@@ -31,10 +31,10 @@ Key Measure table consists of the following -
    - vs PY - % Returned Orders (% of change of returned orders in the current year with respect to the previous year)
 
 ##### Activities to perform in the Power Query
-1. Open Power Query Editor:
+1. Open Power Query Editor:\
 Click on Transform Data to open the Power Query Editor. In view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 
-2. Inspect and Clean Data:
+2. Inspect and Clean Data:\
 Verify that both datasets (Orders and Returns) are loaded correctly.\
 Check for any inconsistencies or missing values and handle them accordingly (e.g., removing null values, correcting data types).
 
