@@ -1,4 +1,4 @@
-# Supermarket Sales Dashbaord
+# Supermarket Sales Data Data Analytics Report
 
 ## Supermarket Sales Report Review
 ![Supermarket Sales Data Analytics Dashboard](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/e9d3a7f9-c2e0-4224-a0f2-76ad3e2a5153)
@@ -12,7 +12,7 @@ Sample-Superstore.xls: Contains the raw data used to generate the dashboard.
 This Excel file contains Orders table and Returns table. This includes details on sales, profit, returned orders, and additional metrics.
 
 ### Key Measure Table:
-It Contains various calculated measures used in the dashboard. The key measure table has been created to fulfill the KPIs.
+It contains various calculated measures used in the dashboard. The key measure table has been created to fulfill the KPIs.
 Key Measure table consists of the following -
 ##### 1. Main Metrics
    - Sales (Contains sales data for each transaction)
