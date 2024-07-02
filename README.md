@@ -4,7 +4,7 @@
 ![Supermarket Sales Data Analytics Dashboard](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/e9d3a7f9-c2e0-4224-a0f2-76ad3e2a5153)
 
 
-### Overview
+#### Overview
 This repository contains the Supermarket Sales Data Analytics Dashboard, which provides an insightful visualization of supermarket sales data. The dashboard is designed to offer a comprehensive view of sales, profit, and returned orders, with comparisons to the previous year. It enables users to filter data by customer name, country/region, segment, and date range.
 
 The following Excel file is included in this repository:\
