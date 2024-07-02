@@ -209,9 +209,9 @@ Date Range: Select a specific date range to view the data for that period.
 
 This analysis examines the filtered dashboard data for the following
  - Customer Name : Adam Bellavance
- - Country / Regoin : United States
+ - Country/Regoin : United States
  - Segment : Home Office
- - Date : 09:06:2023 - 30:12:2023
+ - Date : 09-06-2023 to 30-12-2023
 
 ![KPI](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/91979104-557e-4e4c-92fd-8c9e5c72eb7c)
 
@@ -308,10 +308,10 @@ By understanding and acting on these insights, the business can work towards rev
 ![Filter 2](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/49843d27-cbc2-4f6f-bee8-3a82ebcfc42e)
 
 This analysis shows reflecting upon the following filters\
-Customer Name: Aaron Hawkins
-Country/Region: United States
-Segment: Corporate
-Date Range: 14-01-2020 to 13-12-2023
+- Customer Name : Aaron Hawkins
+- Country/Region : United States
+- Segment : Corporate
+- Date Range : 14-01-2020 to 13-12-2023
 the dashboard updates to reflect data specific to these criteria. This allows for targeted analysis and better decision-making.
 
 #### Example Values:
