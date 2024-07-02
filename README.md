@@ -304,9 +304,15 @@ By understanding and acting on these insights, the business can work towards rev
 
 
 #### Filtering Example 2
-When filtering by Customer Name as "Aaron Hawkins", Country/Region as "United States", Segment as "Corporate", and a Date Range from "14-01-2020" to "13-12-2023", the dashboard updates to reflect data specific to these criteria. This allows for targeted analysis and better decision-making.
 
 ![Filter 2](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/49843d27-cbc2-4f6f-bee8-3a82ebcfc42e)
+
+This analysis shows reflecting upon the following filters\
+Customer Name: Aaron Hawkins
+Country/Region: United States
+Segment: Corporate
+Date Range: 14-01-2020 to 13-12-2023
+the dashboard updates to reflect data specific to these criteria. This allows for targeted analysis and better decision-making.
 
 #### Example Values:
 Sales: $1.73K
