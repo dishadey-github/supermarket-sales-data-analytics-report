@@ -7,7 +7,7 @@
 ### Overview
 This repository contains the Supermarket Sales Data Analytics Dashboard, which provides an insightful visualization of supermarket sales data. The dashboard is designed to offer a comprehensive view of sales, profit, and returned orders, with comparisons to the previous year. It enables users to filter data by customer name, country/region, segment, and date range.
 
-The following Excel file is included in this repository:
+The following Excel file is included in this repository:\
 Sample-Superstore.xls: Contains the raw data used to generate the dashboard. 
 This Excel file contains Orders table and Returns table. This includes details on sales, profit, returned orders, and additional metrics.
 
@@ -191,8 +191,8 @@ Texas: Second highest profit
 A pie chart that breaks down sales by different market segments, such as Consumer, Corporate, and Home Office.
 
 #### Sales Distribution:
-- Consumer: 50.32%\
-- Corporate: 30.77%\
+- Consumer: 50.32%
+- Corporate: 30.77%
 - Home Office: 18.92%
   
 Filtering the Dashboard\
@@ -220,17 +220,17 @@ This analysis examines the filtered dashboard data for the following
 
 #### KPIs Overview
 Sales:
-Current Value (CV): $2.86K\
+Current Year (CY): $2.86K\
 Previous Year (PY): $4.47K\
 Change vs PY: -36.05%
 
 Profit:
-CV: $449.03\
+CY: $449.03\
 PY: $1.46K\
 Change vs PY: -69.28%
 
 % Returned Orders:
-CV: 9,866.67%\
+CY: 9,866.67%\
 PY: 14800.00%\
 Change vs PY: -4933.33%
 
