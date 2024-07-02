@@ -30,6 +30,14 @@ Key Measure table consists of the following -
    - vs PY - Profit (% of change of profit in the current year with respect to the previous year)
    - vs PY - % Returned Orders (% of change of returned orders in the current year with respect to the previous year)
 
+##### Activities to perform in the Power Query
+1. Open Power Query Editor:
+Click on Transform Data to open the Power Query Editor. In view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
+
+2. Inspect and Clean Data:
+Verify that both datasets (Orders and Returns) are loaded correctly.
+Check for any inconsistencies or missing values and handle them accordingly (e.g., removing null values, correcting data types).
+
 ##### Activities to perform in the Table View
 ##### 1. Create the Date Table
 ```
@@ -132,14 +140,6 @@ Profit vs PY (% change): Change in profit compared to the previous year.
 48.85% increase\
 % Returned Orders vs PY (% change): Change in the percentage of returned orders compared to the previous year.
 2.95% decrease
-
-##### Activities to perform in the Power Query
-1. Open Power Query Editor:
-Click on Transform Data to open the Power Query Editor. In view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
-
-2. Inspect and Clean Data:
-Verify that both datasets (Orders and Returns) are loaded correctly.
-Check for any inconsistencies or missing values and handle them accordingly (e.g., removing null values, correcting data types).
 
 
 ##### Dashboard Sections
