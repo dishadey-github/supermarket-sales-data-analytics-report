@@ -110,23 +110,23 @@ vs PY - % returned orders =
 #### Numerical values :
 ##### Main Metrics
 ##### Sales: Total sales revenue.
-Current Year (CY): $2.33M
-Previous Year (PY): $1.58M
+Current Year (CY): $2.33M\
+Previous Year (PY): $1.58M\
 Change vs PY: 47.16% increase
 ##### Profit: Total profit earned.
-CY: $292.30K
-PY: $196.37K
+CY: $292.30K\
+PY: $196.37K\
 Change vs PY: 48.85% increase
 ##### % Returned Orders: Percentage of orders that were returned.
-CY: 5.79%
-PY: 8.74%
+CY: 5.79%\
+PY: 8.74%\
 Change vs PY: 2.95% decrease
 
 ##### Comparative Metrics
 Sales vs PY (% change): Change in sales compared to the previous year.
-47.16% increase
+47.16% increase\
 Profit vs PY (% change): Change in profit compared to the previous year.
-48.85% increase
+48.85% increase\
 % Returned Orders vs PY (% change): Change in the percentage of returned orders compared to the previous year.
 2.95% decrease
 
@@ -148,57 +148,60 @@ This section displays the profit earned from different product categories, inclu
 
 ![image](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/622ce451-2aea-44f7-b82b-fdf9f9762a8c)
 
-Furniture
-Bookcases: ~$20K
-Chairs: ~$25K
-Furnishings: ~$15K
-Tables: -$17.75K (loss)
-Office Supplies
-Binders: ~$30K
-Envelopes: ~$5K
-Fasteners: ~$2K
-Labels: ~$3K
-Paper: ~$10K
-Storage: ~$5K
+1. Furniture
+Bookcases: ~$20K\
+Chairs: ~$25K\
+Furnishings: ~$15K\
+Tables: -$17.75K (loss)\
+Office Supplies\
+Binders: ~$30K\
+Envelopes: ~$5K\
+Fasteners: ~$2K\
+Labels: ~$3K\
+Paper: ~$10K\
+Storage: ~$5K\
 Supplies: ~$2K
-Technology
-Accessories: ~$19.17K
-Copiers: ~$56.09K
-Machines: ~$25K
+2. Technology
+Accessories: ~$19.17K\
+Copiers: ~$56.09K\
+Machines: ~$25K\
 Phones: ~$30K
 
 ![image](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/5a35dbe4-71c3-4997-8cdc-e2195ba4ff77)
 
-##### Sales vs Previous Year Sales
+#### Sales vs Previous Year Sales
 This line chart shows the trend of sales over time, with a comparison to the previous year's sales. It helps identify patterns and seasonal trends.
 
-##### Notable Trends:
+#### Notable Trends:
 Significant increase in sales during Q3 of 2023 compared to previous years.
 Consistent growth in sales from 2020 to 2023.
-Profit by State
-A geographical representation of profit across different states. This map helps visualize regional performance.
 
 ![image](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/f281a956-37d0-459d-8bad-02de38e69410)
 
-##### Top Performing States:
-California: Highest profit
+#### Profit by State
+A geographical representation of profit across different states. This map helps visualize regional performance.
+
+#### Top Performing States:
+California: Highest profit\
 Texas: Second highest profit
-Sales by Segment
-A pie chart that breaks down sales by different market segments, such as Consumer, Corporate, and Home Office.
 
 ![image](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/0e1f7deb-468d-41ac-8b8f-be28c233d866)
 
-##### Sales Distribution:
-Consumer: 50.32%
-Corporate: 30.77%
-Home Office: 18.92%
-Filtering the Dashboard
+#### Sales by Segment
+A pie chart that breaks down sales by different market segments, such as Consumer, Corporate, and Home Office.
+
+#### Sales Distribution:
+- Consumer: 50.32%\
+- Corporate: 30.77%\
+- Home Office: 18.92%
+  
+Filtering the Dashboard\
 The dashboard allows for dynamic filtering based on the following parameters:
 
-Customer Name: Filter data specific to a particular customer.
-Country/Region: Filter data for a specific country or region.
-Segment: Filter data based on the market segment.
-Date Range: Select a specific date range to view the data for that period.
+Customer Name: Filter data specific to a particular customer\
+Country/Region: Filter data for a specific country or region\
+Segment: Filter data based on the market segment\
+Date Range: Select a specific date range to view the data for that period
 
 
 ### Superstore Sales Report (with filter 1)
@@ -217,40 +220,40 @@ This analysis examines the filtered dashboard data for the following
 
 #### KPIs Overview
 Sales:
-Current Value (CV): $2.86K
-Previous Year (PY): $4.47K
+Current Value (CV): $2.86K\
+Previous Year (PY): $4.47K\
 Change vs PY: -36.05%
 
 Profit:
-CV: $449.03
-PY: $1.46K
+CV: $449.03\
+PY: $1.46K\
 Change vs PY: -69.28%
 
 % Returned Orders:
-CV: 9,866.67%
-PY: 14800.00%
+CV: 9,866.67%\
+PY: 14800.00%\
 Change vs PY: -4933.33%
 
 #### Detailed Analysis
 #### Sales
-Current Year: Sales for the specified period are $2.86K.
-Previous Year: Sales were $4.47K.
-Change vs PY: A significant decrease of 36.05% compared to the previous year.
+Current Year: Sales for the specified period are $2.86K\
+Previous Year: Sales were $4.47K\
+Change vs PY: A significant decrease of 36.05% compared to the previous year
 
 #### Business Analytics Perspective:
 This notable decline suggests a potential loss of market share or a reduction in customer purchases. It may be essential to investigate the factors contributing to this decrease. Are there specific products underperforming, or have there been changes in customer preferences? This drop might also highlight the need for marketing efforts or sales promotions to boost revenue.
 
 #### Profit
-Current Year: The profit recorded is $449.03.
-Previous Year: The profit was $1.46K.
-Change vs PY: A substantial decrease of 69.28%.
+Current Year: The profit recorded is $449.03\
+Previous Year: The profit was $1.46K\
+Change vs PY: A substantial decrease of 69.28%
 
 #### Business Analytics Perspective:
 The dramatic drop in profit raises concerns about cost management and pricing strategies. It may indicate increased operational costs or a shift towards lower-margin products. Understanding the cost structure and identifying areas where expenses can be optimized would be crucial. Additionally, evaluating the pricing strategy might help improve profitability.
 
 #### % Returned Orders
-Current Year: The percentage of returned orders is 9,866.67%.
-Previous Year: The percentage was 14,800.00%.
+Current Year: The percentage of returned orders is 9,866.67%\
+Previous Year: The percentage was 14,800.00%\
 Change vs PY: A decrease of 4,933.33%.
 
 #### Business Analytics Perspective:
@@ -259,9 +262,9 @@ Despite the large numbers, the decrease in the percentage of returned orders is 
 ![profit by product](https://github.com/dishadey-github/supermarket-sales-data-analytics-report/assets/60807918/6167d228-4e78-48c8-86fc-4d7c65a5f921)
 
 #### Profit by Product
-Chairs: Loss of $73.05
-Tables: Profit of $366.63
-Paper: Profit of $146.79
+Chairs: Loss of $73.05\
+Tables: Profit of $366.63\
+Paper: Profit of $146.79\
 Accessories: Slight profit, no specific value provided
 
 #### Business Analytics Perspective:
@@ -315,22 +318,22 @@ This analysis shows reflecting upon the following filters\
 the dashboard updates to reflect data specific to these criteria. This allows for targeted analysis and better decision-making.
 
 #### Example Values:
-Sales: $1.73K
-Profit: $362.88
+Sales: $1.73K\
+Profit: $362.88\
 % Returned Orders: 4,933.33%
 
-Profit by Product:
-Envelopes: $62.64
-Phones: $121.44
+#### Profit by Product:
+Envelopes: $62.64\
+Phones: $121.44\
 Chairs: ~$10
 
-Sales vs Previous Year Sales:
+#### Sales vs Previous Year Sales:
 Sharp increase in sales during mid-2022.
 
-Profit by State:
+#### Profit by State:
 New York: Highest profit for Aaron Hawkins
 
-Sales by Segment:
+#### Sales by Segment:
 Corporate: 100%
 
 #### Business Analyst Perspective
@@ -339,15 +342,19 @@ As a business analyst, this dashboard provides critical insights into various as
 #### Sales Growth
 Numerical Insight: A 47.16% increase in sales over the previous year indicates strong growth, possibly due to successful marketing campaigns or increased customer retention.
 Action: Investigate the strategies that contributed to this growth to replicate success in other regions or segments.
-Profit Margins
+
+#### Profit Margins
 Numerical Insight: A 48.85% increase in profit demonstrates improved cost management or higher-margin product sales.
 Action: Identify the highest profit-generating products and focus on promoting these items. Analyze cost structures to understand where efficiencies have been gained.
-Return Rates
+
+#### Return Rates
 Numerical Insight: A 2.95% decrease in returned orders percentage suggests improved customer satisfaction or better quality control.
 Action: Continue monitoring return rates to maintain or further reduce them. Identify products with the highest return rates and investigate underlying issues.
-Segment Analysis
+#### Segment Analysis
+
 Numerical Insight: With 50.32% of sales coming from the Consumer segment, this segment is the most significant contributor to revenue.
 Action: Tailor marketing strategies to cater to consumer needs. Explore opportunities to grow the Corporate and Home Office segments.
+
 By using this dashboard, analysts can provide actionable insights to drive business growth, optimize product offerings, and enhance customer satisfaction.
 
 #### Conclusion
